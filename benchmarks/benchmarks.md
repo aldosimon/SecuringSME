@@ -20,7 +20,7 @@ CIS menyediakan benchmark pada laman [benchmark](https://www.cisecurity.org/cis-
 Dapat juga menggunakan [CIS CAT lite](https://learn.cisecurity.org/cis-cat-lite), untuk mengecek implementasi.
 
 
-salah satu contoh [CIS Windows 10](/benchmarks/CIS_Microsoft_Windows_10_Stand-alone_Benchmark_v3.0.0.pdf). 
+salah satu contoh [CIS Windows 10](https://github.com/aldosimon/SecuringSME/blob/main/benchmarks/CIS_Microsoft_Windows_10_Stand-alone_Benchmark_v3.0.0.pdf). 
 
 ## dev-sec.io
 
