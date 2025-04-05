@@ -20,7 +20,11 @@ CIS menyediakan benchmark pada laman [benchmark](https://www.cisecurity.org/cis-
 Dapat juga menggunakan [CIS CAT lite](https://learn.cisecurity.org/cis-cat-lite), untuk mengecek implementasi.
 
 
-salah satu contoh [CIS Windows 10](https://github.com/aldosimon/SecuringSME/blob/main/benchmarks/CIS_Microsoft_Windows_10_Stand-alone_Benchmark_v3.0.0.pdf). 
+<<<<<<< HEAD
+sebagai contoh kita akan menggunakan [CIS Windows 10](https://github.com/aldosimon/SecuringSME/blob/main/benchmarks/CIS_Microsoft_Windows_10_Stand-alone_Benchmark_v3.0.0.pdf) untuk mengecek implementasi.
+=======
+sebagai contoh kita akan menggunakan [CIS Windows 10](https://github.com/aldosimon/SecuringSME/blob/main/benchmarks/CIS_Microsoft_Windows_10_Stand-alone_Benchmark_v3.0.0.pdf), dan [CIS CAT lite](https://github.com/aldosimon/SecuringSME/blob/main/benchmarks/CIS-CAT Lite_Assessor_v4.48.0.zip)
+>>>>>>> c82b9be (menambah index)
 
 ## dev-sec.io
 
@@ -29,3 +33,8 @@ dev-sec.io menyediakan baseline pada laman [baseline](https://dev-sec.io/baselin
 ## STIG
 
 Benchmark tersedia pada [STIG](https://public.cyber.mil/stigs/), atau [GPO terkait](https://public.cyber.mil/stigs/gpo/)
+
+
+## HardeningKitty
+
+Untuk mempermudah, [HardeningKitty](https://github.com/scipag/HardeningKitty) merupakan sebuah PowerShell module yang bisa mengaudit CIS benchmark dan Microsoft Security Baseline.
