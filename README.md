@@ -6,8 +6,12 @@ Repo ini merupakan pendamping pembahasan SecuringSME
 
 ## Cara kerja
 (1) identifikasi aset dan risiko
+
 (2) terapkan kontrol
+
 (3) dokumentasi dan evaluasi
+
+(4) align dengan CDM
 
 ## Katalog Kontrol
 
