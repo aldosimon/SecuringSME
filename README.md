@@ -7,6 +7,14 @@ Repo ini merupakan pendamping pembahasan SecuringSME
 ## Cara kerja
 ```mermaid
 graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+```mermaid
+graph TD;
 A[identifikasi aset]-->B[identifikasi risiko];
 B-->C;
 C[terapkan kontrol]-->D[dokumentasi/ evaluasi];
