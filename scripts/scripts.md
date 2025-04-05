@@ -1,6 +1,6 @@
 
 # Scripts
-## About
+
 Kumpulan script yang digunakan sebagai contoh pada SecuringSME
 
 ## List account local pada windows
