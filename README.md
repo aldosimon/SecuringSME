@@ -1,5 +1,3 @@
-# SecuringSME
-
 Repo ini merupakan pendamping materi SecuringSME
 
 ## Cara kerja
