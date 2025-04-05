@@ -1,6 +1,6 @@
+# SecuringSME
 
-
-Repo ini merupakan pendamping pembahasan SecuringSME
+Repo ini merupakan pendamping materi SecuringSME
 
 ## Cara kerja
 (1) identifikasi aset dan risiko
