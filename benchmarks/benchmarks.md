@@ -1,4 +1,4 @@
-
+# Benchmarks
 
 adalah kumpulan sumber daya untuk melakukan hardening pada OS dan aplikasi.
 
@@ -20,11 +20,7 @@ CIS menyediakan benchmark pada laman [benchmark](https://www.cisecurity.org/cis-
 Dapat juga menggunakan [CIS CAT lite](https://learn.cisecurity.org/cis-cat-lite), untuk mengecek implementasi.
 
 
-<<<<<<< HEAD
 sebagai contoh kita akan menggunakan [CIS Windows 10](https://github.com/aldosimon/SecuringSME/blob/main/benchmarks/CIS_Microsoft_Windows_10_Stand-alone_Benchmark_v3.0.0.pdf) untuk mengecek implementasi.
-=======
-sebagai contoh kita akan menggunakan [CIS Windows 10](https://github.com/aldosimon/SecuringSME/blob/main/benchmarks/CIS_Microsoft_Windows_10_Stand-alone_Benchmark_v3.0.0.pdf), dan [CIS CAT lite](https://github.com/aldosimon/SecuringSME/blob/main/benchmarks/CIS-CAT Lite_Assessor_v4.48.0.zip)
->>>>>>> c82b9be (menambah index)
 
 ## dev-sec.io
 
