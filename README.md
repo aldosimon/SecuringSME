@@ -1,5 +1,3 @@
-# SecuringSME
-
 ## About
 
 Repo ini merupakan pendamping pembahasan SecuringSME
