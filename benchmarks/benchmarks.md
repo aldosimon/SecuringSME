@@ -1,6 +1,6 @@
 # Benchmarks
 
-adalah kumpulan sumber daya untuk melakukan hardening pada OS dan aplikasi.
+Kumpulan sumber daya untuk melakukan hardening pada OS dan aplikasi melalui baseline/ benchmark dari beberapa organisasi internasional.
 
 ## Perhatian
 
