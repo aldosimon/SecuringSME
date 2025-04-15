@@ -1,7 +1,7 @@
 
 # Scripts
 
-Kumpulan script yang digunakan sebagai contoh pada SecuringSME
+Kumpulan script dan command line yang digunakan sebagai contoh pada SecuringSME
 
 ## List account local pada windows
 
@@ -47,4 +47,10 @@ Get-Acl C:\Windows
 PowerShell:
 ```PowerShell
 Get-Acl -Path "C:\Dog.txt" | Set-Acl -Path "C:\Cat.txt"
+```
+
+## Update dengan winget
+
+```cmd
+winget upgrade --all --accept-package-agreements --accept-source-agreements
 ```
