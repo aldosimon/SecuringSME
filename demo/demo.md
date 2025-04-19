@@ -123,12 +123,10 @@ Untuk melihat log peristiwa AppLocker:
 
 ### Catatan Penting
 
-* **Aturan Default Tidak Memblokir:** Ingatlah bahwa aturan default AppLocker dirancang untuk memberikan izin kepada lokasi dan penerbit yang umumnya dianggap aman. Mereka **tidak akan memblokir aplikasi apa pun secara inheren**.
+* **Aturan Default Tidak Memblokir:** Ingatlah bahwa aturan default AppLocker dirancang untuk memberikan izin kepada lokasi (program files dan windows folder) yang umumnya dianggap aman. Mereka **tidak akan memblokir aplikasi apa pun secara inheren**.
 
 * **Mode Audit Only Sangat Penting:** Tetap dalam mode "Audit only" memungkinkan Anda untuk melihat bagaimana aturan AppLocker akan mempengaruhi sistem Anda tanpa risiko mengunci diri. Pantau log peristiwa untuk memahami aplikasi mana yang akan diblokir jika Anda membuat aturan pemblokiran di masa mendatang.
 
-* **Untuk Memblokir Aplikasi:** Untuk benar-benar memblokir aplikasi, Anda perlu membuat aturan 
-
-* **"Deny"** secara manual, menargetkan aplikasi spesifik berdasarkan publisher, path, atau hash file.
+* **Untuk Memblokir Aplikasi:** Untuk benar-benar memblokir aplikasi, Anda perlu membuat aturan **"Deny"** secara manual, menargetkan aplikasi spesifik berdasarkan publisher, path, atau hash file.
 
 * **Verifikasi Layanan:** Layanan Application Identity harus berjalan agar AppLocker dapat berfungsi dengan benar.
