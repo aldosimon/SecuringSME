@@ -87,7 +87,7 @@ tiga aturan default untuk file executable:
 
 Sesuai kebutuhan: Ulangi langkah yang sama untuk **`Windows Installer Rules`** dan **`Script Rules`**. Klik kanan pada setiap kategori dan pilih **`Create Default Rules`**. Ini akan menambahkan aturan default yang sesuai untuk jenis file tersebut.
 
-### Tinjau Aturan Default yang Ditambahkan:**
+### Tinjau Aturan Default yang Ditambahkan:
 
 Klik pada setiap kategori aturan (`Executable Rules`, `Windows Installer Rules`, `Script Rules`) di panel kiri.
 
@@ -95,7 +95,7 @@ Periksa aturan default yang baru saja Anda tambahkan di panel kanan. Pastikan An
 
 **Catatan:** Aturan default ini bertujuan untuk memberikan izin kepada lokasi dan penerbit tepercaya. Mereka **tidak secara eksplisit memblokir** aplikasi apa pun.
 
-### Verifikasi Layanan Application Identity:**
+### Verifikasi Layanan Application Identity:
 
 AppLocker bergantung pada layanan **Application Identity** agar dapat berfungsi. Pastikan layanan ini berjalan.
 
@@ -111,7 +111,7 @@ Jika tidak berjalan, klik kanan padanya dan pilih `Start`.
 
 Bila anda yakin rule anda sudah tepat, maka  `Startup Type` bisa di-set `Automatic`, klik kanan, pilih `Properties`, ubah `Startup Type`, klik `Apply`, dan kemudian `Start`.
 
-### Periksa Log Peristiwa AppLocker (Setelah Pengujian):**
+### Periksa Log Peristiwa AppLocker (Setelah Pengujian):
 
 Karena kita masih dalam mode "Audit Only", AppLocker tidak akan memblokir aplikasi apa pun. Ia akan mencatat setiap kali sebuah aplikasi *seharusnya* diblokir jika aturan pemblokiran eksplisit ada dan mode "Enforce rules" diaktifkan. Aturan default yang baru ditambahkan seharusnya *tidak* menghasilkan peristiwa pemblokiran karena sifatnya yang memberikan izin.
 
