@@ -15,5 +15,7 @@ Katalog kontrol bersumber dari [NCSC small business guide](https://www.ncsc.gov.
 
 ## Appendix
 
+- [demo](/demo/demo.md)
 - [scripts](/scripts/scripts.md)
 - [benchmarks](/benchmarks/benchmarks.md)
+
