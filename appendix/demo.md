@@ -1,6 +1,6 @@
-# Demo
+# Demo Kontrol Teknis
 
-Kumpulan langkah-langkah penerapan kontrol
+Kumpulan langkah-langkah penerapan kontrol teknis
 
 ## Langkah-langkah Mencegah Pengguna Menginstal Ekstensi di Google Chrome:
 

@@ -15,7 +15,7 @@ Katalog kontrol bersumber dari [NCSC small business guide](https://www.ncsc.gov.
 
 ## Appendix
 
-- [demo](/demo/demo.md)
-- [scripts](/scripts/scripts.md)
-- [benchmarks](/benchmarks/benchmarks.md)
-
+- [demo kontrol teknis](/appendix/demo.md): contoh beberapa kontrol teknis yang digunakan dalam materi
+- [scripts](/appendix/scripts.md): contoh beberapa script yang digunakan dalam materi
+- [benchmarks](/appendix/benchmarks.md): kumpulan informasi terkait benchmark/ baseline
+- [forms](/appendix/forms.xlsx): contoh forms yang digunakan dalam materi
